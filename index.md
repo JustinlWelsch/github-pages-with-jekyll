@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to My Page
 
-I'm glad you are here. I plan to talk about ...
+My names Justin Welsch. I plan to talk about this project I have
